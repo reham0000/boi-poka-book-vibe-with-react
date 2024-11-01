@@ -10,9 +10,7 @@ const Banner = () => {
         />
         <div className=''>
           <h1 className="text-5xl font-bold">Books to freshen up <br /> your bookshelf</h1>
-          <p className="py-6">
-          
-          </p>
+          <br /> <br />
           <button className="btn bg-lime-600">View The List</button>
         </div>
       </div>
